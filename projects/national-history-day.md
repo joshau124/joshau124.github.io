@@ -13,8 +13,8 @@ summary: "I produced a documentary on the Endangered Species Act that qualified 
 ---
 
 <div class="text-center p-4">
-  <img width="700px" src="../img/usfws.png" class="img-thumbnail" >
-  <img width="500px" src="../img/NOAA-logo.png" class="img-thumbnail" >
+  <img width="200px" src="../img/usfws-emblem.png" class="img-thumbnail" >
+  <img width="200px" src="../img/noaa-emblem.png" class="img-thumbnail" >
   <img width="200px" src="../img/esa-emblem.png" class="img-thumbnail" >
 </div>
 
