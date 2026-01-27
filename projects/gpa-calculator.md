@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Python-logo-notext.png
 title: "GPA Calculator"
 date: 2024-04-28
 published: true
