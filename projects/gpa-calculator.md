@@ -22,6 +22,7 @@ While this project is very basic, it was my first use of coding to solve a real 
 Here is some code that displays how I accepted inputs from the user
 
 ```cpp
+byte ADCRead(byte ch)
 {
     while True:
         grade = input ('What is your letter grade? (Add a "+" at the end of the letter if the class is an AP): ')
