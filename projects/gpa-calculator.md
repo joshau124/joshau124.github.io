@@ -19,7 +19,7 @@ The GPA Calculator is a python program that aims to help high school students ea
 
 While this project is very basic, it was my first use of coding to solve a real world problem. I had lots of setbacks, as I had never worked with this scale project before. Eventually, I taught myself the necessary skills to successfully complete this program, learning a lot on the way. The most this program taught me was how to look at a problem that needs to be solved. While it is helpful to know how to code, it doesn't help if a programmer doesn't know how to apply those skills in a real life environment.
 
-Here is some code that displays how I accepted inputs from the user
+Here is some code that displays how the calculator accepted inputs from the user
 
 ```cpp
 byte ADCRead(byte ch)
