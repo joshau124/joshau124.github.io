@@ -8,7 +8,7 @@ published: true
 labels:
   - Python
   - Project
-summary: "For my AP Computer Science Principles create performance task, I coded a 4.0 GPA scale calculator."
+summary: "A Python program that calculates the user's GPA on a 4.0 scale, based off of user inputs for number of grades and letter grades."
 ---
 
 <div class="text-center p-4">
