@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/nhd_emblem.png.png
 title: "National History Day"
 date: 2024-07-12
 published: true
