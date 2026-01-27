@@ -37,3 +37,4 @@ byte ADCRead(byte ch)
             break
     print(grade_list)
 }
+```
