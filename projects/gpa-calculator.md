@@ -12,7 +12,7 @@ summary: "For my AP Computer Science Principles create performance task, I coded
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/gpa-calc-img.png" class="img-thumbnail" >
+  <img width="800px" src="../img/gpa-calc-img.png" class="img-thumbnail" >
 </div>
 
 The GPA Calculator is a python program that aims to help high school students easily calculate their GPA. At my high school, there was no such thing as a "B-" or an "A+", so it only takes the base letter grade. However, if the class is an AP class, the calculator will take the grade as a 5.0 grade scale. First, the program asks the user to input the number of grades they have, and then ask for their grade in each class, with a + at the end of a Letter indicating it is an AP class. After, the user's GPA is calculated and printed.
