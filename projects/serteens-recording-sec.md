@@ -1,7 +1,7 @@
 ---
 layout: project
-type: project
-image: img/serteens-emblem.jpg
+type: project 
+image: img/serteens.jpg
 title: "George B Carter Recording Secretary"
 date: 2024-04-16
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "I was the 2023-2024 Recording Secretary for the George B. Carter Serteens Club of Hawaii, a gifted and talented club centered around public service."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/serteens-emblem.jpg">
 
 *"The George B. Carter Serteens Club of Hawaii provides social interaction and leadership training for gifted and talented students who wish to serve the community."*
 
