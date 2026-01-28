@@ -10,6 +10,9 @@ labels:
   - Learning
 ---
 
+
+<img class="img-fluid" src="../img/typescript.png">
+
 ## All the way back
 
 College has been my first experience with hard to read code. In high school, I took a basic programming class that taught basic Python and JavaScript, fooling me into thinking Computer Science would be a breeze. The past semesters led me to believe the further I dug down, the harder it would get. So, imagine my surprise when I walk into my Software Engineering class to find out I'll be using an augmented version of JavaScript all the way back from high school. 
