@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Past, Present, and Future"
 # All dates must be YYYY-MM-DD format!
-date: 3032-01-27
+date: 2026-01-27
 published: true
 labels:
   - Software Engineering
