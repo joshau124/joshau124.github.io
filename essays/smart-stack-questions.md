@@ -23,12 +23,13 @@ To show an example of how SMART questions can improve the quality of feedback gi
 
 <img class="img-fluid" src="../img/smart-question.png">
 
+
 ```cpp
 df %>%
   pivot_longer(!Indiv) %>%
   ggplot(aes(x = Indiv, y = value)) + 
   geom_point() 
-...
+```
 
 ## !(SMART) == Bad Responses
 
