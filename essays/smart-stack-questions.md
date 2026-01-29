@@ -12,11 +12,14 @@ labels:
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
 
-<img class="img-fluid" src="../img/stack-overflow.png">
 
 ## What's so SMART about questions?
 
 In your schools, a teacher might've said that there's no such thing as a "dumb question." While this is true, it might be hard to get meaningful results off of bad questions. Rather, it would be easier to get useful information asking a question that had been previously thought out and explored. SMART Questions solves these issues by setting guidelines for askers to ask questions in a way that attracts others to give helpful responses to assist in solving the problem. Learn more about SMART questions [here](http://www.catb.org/esr/faqs/smart-questions.html) before continuing.
+
+##
+
+<img class="img-fluid" src="../img/stack-overflow.png">
 
 ## SMART = Good
 
