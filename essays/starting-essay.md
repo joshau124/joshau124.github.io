@@ -12,8 +12,6 @@ labels:
 
 <img class="img-fluid" src="../img/uhm.jpg">
 
-Third, create a technical essay (approximately 3-4 paragraphs) that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
-
 ## From the Past
 
 While in highschool, I never knew what I wanted to do when I grew up, so I simply tried a bit of everything. I took anatomy classes and music classes but nothing stuck to me except my programming 1 class that I took in my senior year. This class selection started me down the path of software engineering and computer science that I find myself on today. In addition to that, my father works as a software designer, so he helped me learn the basics of simpler languages like Python when I was a high schooler.
