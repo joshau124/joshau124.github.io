@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/interview.jpg">
+<img class="img-fluid" src="../img/interview.png">
 
 ## A Big Question for a Big Job
 
@@ -18,8 +18,6 @@ If you're trying to get a job in the coding industry, you might someday make it 
 # A Simple Explanation for a Useful Tool
 
 While design patterns sound like a big scary relative of data structures, it's actually quite simple. It's kind of like when you have a specific issue and google a question for a reddit thread from 11 years ago to become your savior. In this case, the reddit thread provides the reusable solutions that are applicable to your problem, that many others have probably had in the past. Within computer science, there are tons of commonly occurring issues that have multiple usable template solutions available.
-
-# A Personal Example for a Final Project
 
 Design patterns are extremely useful for projects. While I didn’t know about them before, I was able to learn how to utilize design patterns to create a working website for the University of Hawaii community that not only helps users find recyclable locations, but also helps inform and track users on their recycling practices. 
 
