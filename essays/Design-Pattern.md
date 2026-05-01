@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Design Patterns: An Easy Solution for a Constant Problem"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2023-04-30
+published: true
 labels:
   - Engineering
 ---
