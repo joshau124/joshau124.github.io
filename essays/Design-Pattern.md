@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns: An Easy Solution for a Constant Problem"
 # All dates must be YYYY-MM-DD format!
-date: 2023-04-30
+date: 2026-04-30
 published: true
 labels:
   - Engineering
