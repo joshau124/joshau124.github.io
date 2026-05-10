@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img class="img-fluid" src="../img/watch.jpg">
+<img class="img-fluid" src="../img/checking-watch.png">
 
 ## Why Should You Estimate Effort?
 
