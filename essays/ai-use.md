@@ -12,7 +12,8 @@ labels:
 ---
 
 
-<img class="img-fluid" src="../img/checking-watch.png">
+<img class="img-fluid" src="../img/chatgpt.png">
+<img class="img-fluid" src="../img/claude.png">
 
 # I. Introduction
 
