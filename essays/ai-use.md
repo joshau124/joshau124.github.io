@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI: A future tool for coding"
 # All dates must be YYYY-MM-DD format!
-date: 2026-05-10
+date: 2026-05-11
 published: true
 labels:
   - Ai Use
