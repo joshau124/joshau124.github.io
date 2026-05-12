@@ -79,11 +79,13 @@ Other than the methods listed prior, I did not use AI in any other way. I feel t
 
 ## III. Impact on Learning and Understanding
 
-Overall AI had a positive impact on my learning of concepts and coding in ICS 314. It was helpful to have a resource to help not only give examples, but also detailed explanations of very specific bits of code. It helped me understand coding in a way that I could control and pace. This is much more personalized than the videos and readings that are often too difficult for me to understand fully. Additionally, even though the videos provided alongside the WOD in ICS 314 were useful, often times I felt like they moved way too fast, to the point where I would ask AI to help me understand what is being said there
+Overall AI had a positive impact on my learning of concepts and coding in ICS 314. It was helpful to have a resource to help not only give examples, but also detailed explanations of very specific bits of code. It helped me understand coding in a way that I could control and pace. This is much more personalized than the videos and readings that are often too difficult for me to understand fully. Additionally, even though the videos provided alongside the WOD in ICS 314 were useful, often times I felt like they moved way too fast, to the point where I would ask AI to help me understand what is being said there. This helped me keep up with the class and eventually allowed me to complete in-class WODs without the use of AI.
+
+However, I noticed that halfway through the semester, I began to overrely on AI. I began to get lazy and simply prompt it to do the work for me. This decision affected me for a while, as it left a gap in my knowledge where I am weaker at certain concepts due to the ease of AI answering for me. I would be able to answer questions, but not understand why they worked or how they worked. This gap of knowledge reinforces my point of view that AI must be used carefully and cautiously in order to grow and learn. 
 
 ## IV. Practical Applications
 
-paragrapj
+I tend not to use AI in my day to day life. Outside of ICS 314, I do not find myself struggling as much on understanding concepts or designs. However, asian language courses at UHM use something called "Moodles" to help reinforce learning. These moodles are made by the teachers, so there are natural errors and inconsistency due to lack of attention to detail. If I ever have to spend more than half an hour on a moodle, I will sometimes turn to an AI to make sure I'm doing it correct and I'm not in the wrong. Sometimes I get the concept of the homework correct, but I forget a small mistake like past tense. So, AI can be helpful in checking my work in other classes.
 
 ## V. Challenges and Opportunities
 
