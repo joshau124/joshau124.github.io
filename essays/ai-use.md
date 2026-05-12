@@ -89,16 +89,20 @@ I tend not to use AI in my day to day life. Outside of ICS 314, I do not find my
 
 ## V. Challenges and Opportunities
 
-paragraph
+The main challenge of using AI in general in an educational setting is knowing how to use it to help you learn rather than help you complete assignments. While AI proves to be incredibly useful to getting assignments done in short times, the fault is that the user doesn't end up learning from anything. In the long run, this sets users up for failure as they may find even the most simple code blocks impossible to recreate. However, the oppourtunity to have what is essentially a tutor available at all times makes it an invaluable tool when used correctly. Not only can it come up with examples of how to use code, but it can also analyze hard to read code and explain what each line does. This is especially helpful when working with partners that may use code you don't know about. However, I believe that all AI answers should be taken with a grain of salt. Your vision and the AI's vision may always differ.
 
 ## VI. Comparative Analysis
 
-paragrapj
+Compared to traditional learning, AI has pros and cons to match. The major pro of AI learning is the convenience. AI is available almost whenever you are connected to the internet and will do its best to answer any question prompted. However, the validity of those answers may be questionable depending on the subjectivity of the question, which leads to incorrect learning rather than no learning. The major downside of traditional learning is pacing and the loss of individuality. 
+
+In traditional learning environments, everyone must learn at the same pace and those that cannot keep up fall behind. While this works for some people, it may be oppressive for others. On the other hand, AI is very structureless, requiring the user to want to learn rather than want to get a good grade. Even though this may work for individuals with discipline, the lack of structure may cause users to give up and feed the AI the questions to get answers and get it over with. Overall, both traditional and AI learning have their pros and cons that may work for different people.
 
 ## VII. Future Considerations
 
-paragrapj
+I believe that until the AI bubble pops, if it does, that AI will become engrained into most parts of daily life. This has been proven so far as people go to AI for everyday questions rather than using google. Even though AI can give answers in a second, they are not always the best nor entirely accurate. AI works by taking what is known on the internet and regurgitating it, thus allowing for the possible spread of misinformation or lack of efficient solution. I believe that if AI is fine tuned to an academic setting, taking from specified research papers, it can be trained to be a reliable teaching tool in addition to traditional learning.
 
 ## VIII. Conclusion
 
-paragraph
+Overall, AI is growing larger and larger in regards to daily life. My experience in ICS 314 is no exception, with AI guiding me to understanding abstract concepts and assisting in code development. I used Claude to help me understand the code presented within at-home WODs and help me understand the solutions behind the in-practice WODs.
+
+Even though it may seem at first to be an indisposable helper, it's always important to remember that you need to know what's happening. You can't let your code become a black box that only AI knows how to decipher and write. Instead, AI should work to teach you why and how code works.
