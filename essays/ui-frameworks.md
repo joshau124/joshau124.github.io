@@ -4,7 +4,7 @@ type: essay
 title: "Framework Makes The Dream Work"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-26
-published: true
+published: false
 labels:
   - HTML
   - UI
