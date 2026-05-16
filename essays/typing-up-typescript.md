@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img class="img-fluid" src="../img/typescript.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/typescript.png">
 
 ## All the way back
 
