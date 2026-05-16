@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cycle5ense-logo.jpg
+image: img/cycle5ense-logo.png
 title: "Cycle5ense"
 date: 2026-05-06
 published: true
