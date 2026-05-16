@@ -12,7 +12,7 @@ labels:
 ---
 
 
-<img class="img-fluid" src="../img/typescript.png">
+<img class="img-fluid" src="../img/software.png">
 
 ## Software Engineering at its Core
 
