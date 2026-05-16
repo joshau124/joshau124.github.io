@@ -6,34 +6,23 @@ title: "Micromouse"
 date: 2015
 published: false
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Database
+  - CSS
+  - React
+summary: "A bin finder and recycling tracker website created for the University of Hawaii at Manoa Community."
 ---
-
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="800px" src="../img/cycle5ense-landing.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+My ICS 314 class at UHM culminated in a final project where students made groups of up to 5 where students would collaborate to use everything they've learned to code a website that helps the UHM community in some form. My team decided to create Cycle5ense, a website with an interactable map that allows for easily finding bins in each building within the main campus of UHM. Additionally, this website features announcements from the Bottles4College group, these announcements are held within a database and displayed in pages with the 4 soonest announcements on each page. To fulfill the requirements for the final project, my team created a user system with each user able to self report how much they've recycled. This stat is displayed on their user page as well as added to a total sum of all user rcycle stats. This encourages users to work towards a goal together.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Personally, I focused mostly on the Bottles4College announcement page. At first, it started off as a mock up page, with the only annonucement being written by hand. Overtime, I created a announcment model that held the event name, date, start time, end time, location, and general description. While all the announcements on the website are currently realistic examples, I implemented pagination to the page so that loading times do not suffer from an immense number of announcement objects. Pagination allows for only the 4 soonest occuring announcements to be displayed at a time, with controls at the bottom of the page to go next, back and to any specific number page.
 
-Here is some code that illustrates how we read values from the line sensors:
+Overall, I enjoyed working with 4 other classmates and it helped me develop skills that I wouldn't have been able to cultivate otherwise. Working as a team allowed me to understand how it is to work with people as well as working on a specific part individually without stepping on other's toes through the use of branching off of main within the github repo. My social skills in the software engineering context have improved as well. We all worked on our own parts, but we also talked about the code to do so with each other. In total, this final project taught me important skills in both coding and cooperation.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Here are some important links from our final project
+[Github organization](https://github.com/cycle5ense).
+[Github repo](https://github.com/cycle5ense/cycle5ense).
+[Github.io](https://cycle5ense.github.io/).
+[vercel page](https://cycle5ense.vercel.app/).
