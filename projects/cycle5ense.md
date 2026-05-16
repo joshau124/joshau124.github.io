@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Micromouse"
-date: 2015
-published: false
+date: 2026
+published: true
 labels:
   - Database
   - CSS
