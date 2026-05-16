@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+image: img/cycle5ense-logo.jpg
+title: "Cycle5ense"
 date: 2026
 published: true
 labels:
@@ -13,6 +13,7 @@ summary: "A bin finder and recycling tracker website created for the University 
 ---
 <div class="text-center p-4">
   <img width="800px" src="../img/cycle5ense-landing.png" class="img-thumbnail" >
+  <img width="800px" src="../img/cycle5ense-announcements.png" class="img-thumbnail" >
 </div>
 
 My ICS 314 class at UHM culminated in a final project where students made groups of up to 5 where students would collaborate to use everything they've learned to code a website that helps the UHM community in some form. My team decided to create Cycle5ense, a website with an interactable map that allows for easily finding bins in each building within the main campus of UHM. Additionally, this website features announcements from the Bottles4College group, these announcements are held within a database and displayed in pages with the 4 soonest announcements on each page. To fulfill the requirements for the final project, my team created a user system with each user able to self report how much they've recycled. This stat is displayed on their user page as well as added to a total sum of all user rcycle stats. This encourages users to work towards a goal together.
