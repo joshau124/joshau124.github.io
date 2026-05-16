@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cycle5ense-logo.jpg
 title: "Cycle5ense"
-date: 2026
+date: 2026-05-06
 published: true
 labels:
   - Database
